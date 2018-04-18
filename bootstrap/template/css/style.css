@@ -1,0 +1,10 @@
+.container{
+	width:100%;
+	max-width: 1280px;	
+}
+.bg-red{background-color: rgba(50,0,0,0.5); height:100px;}
+.logo{
+	border:0px solid blue;
+	height:80px;
+	margin:10px;
+}
